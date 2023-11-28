@@ -1,4 +1,4 @@
-22429708435022461
+22451783314235931
 691243310007
 691243310007
 
@@ -6,6 +6,13 @@
 0
 7
 7
+1N5819HW-7-F
+SOD3716X145N
+SOD123(H=1.45)
+Diode
+0
+2
+2
 1_5inch-rgb-oled-module_asm-1110
 1_5inch-rgb-oled-module_asm-1110
 
@@ -33,6 +40,13 @@ Integrated Circuit
 Connector
 0
 4
+2
+0154007
+0154100DR
+0154.100DR-2
+Fuse
+0
+2
 2
 505568-0671
 5055680671
@@ -54956,6 +54970,20 @@ Capacitor Polarised
 0
 2
 2
+ESDA25P35-1U1M
+ESDA25P351U1M
+1610_2023
+TVS Diode (Uni-directional)
+0
+2
+2
+ESDA25W
+SOT65P210X110-3N
+ESDA25W
+Diode
+0
+3
+3
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -61340,6 +61368,13 @@ solder jumper open
 0
 5
 3
+KMR211G_LFS
+KMR_2
+KMR_2
+Switch
+0
+4
+2
 LD1117AS33TR
 SOT230P700X190-4N
 SOT-223
@@ -66279,6 +66314,13 @@ PMEG10030ELPX
 SODFL4725X110N
 SOD128
 Diode
+0
+2
+2
+PTS636_SM43_SMTR_LFS
+PTS636SM43SMTRLFS
+PTS636 SM43 SMTR LFS-2
+Switch
 0
 2
 2
@@ -85266,6 +85308,13 @@ Inductor
 0
 2
 2
+STL9P3LLH6
+STL20N6F7
+PowerFLAT™ 3.3x3.3
+MOSFET (P-Channel)
+0
+7
+5
 STM32G431KBT6
 QFP80P900X900X160-32N
 LQFP32
@@ -85273,6 +85322,13 @@ Integrated Circuit
 0
 32
 32
+STUSB4500QTR
+QFN50P400X400X100-25N-D
+QFN24-1
+Integrated Circuit
+0
+25
+25
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://www.aosong.com/en/products-22.html
@@ -91769,6 +91825,41 @@ Integrated Circuit
 0
 5
 5
+USB3140-30-0230-1-C_REVE1
+GCT_USB3140-30-0230-1-C_REVE1
+
+
+0
+7
+6
+USB4105-GF-A
+GCT_USB4105-GF-A-120
+
+
+0
+16
+16
+USB4800-03-A
+USB480003A
+USB4800-03-A-1
+Connector
+0
+16
+16
+USBLC6-2P6
+USBLC62P6
+USBLC6-2P6-3
+Integrated Circuit
+0
+6
+6
+V7NM103-M3_I
+V7NM103M3I
+V7NM103-M3/I-1
+Schottky Diode
+0
+3
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
